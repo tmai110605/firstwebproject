@@ -123,7 +123,4 @@ Nếu bạn deploy trên Tomcat 10+:
 - Có thể cần cập nhật `web.xml` sang schema Jakarta EE 9/10 (web-app 5.0).
 - Hoặc đơn giản nhất: dùng **Tomcat 9** để khỏi phải migrate.
 
----
 
-## 9) Giấy phép & thông tin
-Ví dụ học theo Murach — dùng cho mục đích học tập/demo.
